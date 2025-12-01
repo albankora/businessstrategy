@@ -1,10 +1,6 @@
-# Eleventy Duo
+# Business Strategy
 
-Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs.
-
-![demo site screenshot](./screenshot.png)
-
-### [Live demo](https://eleventyduo.netlify.app)
+Business Strategy is a minimal and beautiful Eleventy theme for personal blogs.
 
 ## Features
 
@@ -57,7 +53,7 @@ Sample frontmatter for homepage.
 ```
 ---
 layout: home
-title: 'Eleventy Duo'
+title: 'Business Strategy'
 ---
 
 Contents
@@ -117,7 +113,7 @@ Contents
 
 This project is preconfigured to work with Forestry as a way to manage your content. Forestry makes changes by editing markdown or data files, uploading media to the correct directory and committing these updates to your repo directly.
 
-Eleventy Duo has Forestry CMS pre-configured as standard. You can customize the configuration by editing `.forestry/settings.yml.`
+Business Strategy has Forestry CMS pre-configured as standard. You can customize the configuration by editing `.forestry/settings.yml.`
 
 Sign up for a free [Forestry](https://forestry.io) account
 
